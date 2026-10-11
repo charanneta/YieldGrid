@@ -1,0 +1,20 @@
+# Database configuration for YieldGrid
+config.properties
+
+# Compiled class files
+bin/
+out/
+*.class
+
+# Package files (keep required driver in lib/)
+*.jar
+*.war
+!lib/*.jar
+
+# IDE specific files
+.idea/
+.vscode/
+*.iml
+.project
+.classpath
+.settings/
